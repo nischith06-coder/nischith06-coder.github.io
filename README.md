@@ -45,3 +45,5 @@ A simple car game developed using Python and PyGame to practice programming logi
 To become a strong software developer by continuously improving my problem-solving, development and system-building skills.
 
 Skill: Learning Python
+
+Interest: cloud computing
