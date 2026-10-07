@@ -47,3 +47,5 @@ To become a strong software developer by continuously improving my problem-solvi
 Skill: Learning Python
 
 Interest: cloud computing
+
+Goal: contribute to open source
